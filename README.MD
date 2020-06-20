@@ -31,3 +31,8 @@ while excuting, new item enqeueued in micro task queue, excuted it.
 \*rendering principle
 the render steps only happne if there's something only worth updating.
 screen frequency set
+
+
+👍 inspired
+
+https://vimeo.com/254947206#t=1470s
