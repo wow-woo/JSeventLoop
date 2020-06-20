@@ -1,0 +1,11 @@
+main {
+  width: 150px;
+  height: 100px;
+  position: absolute;
+  left: 0;
+  background-color: #999;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
